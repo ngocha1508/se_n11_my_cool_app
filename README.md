@@ -1,9 +1,11 @@
 # Thông tin của dự án
-Dư án my cool app.
+Dư án Quản lý sinh viên
 
 ## Danh sách các thành viên
-- Nguyễn Văn A
-- Lò Văn K
+- Dương Ngọc Hà
+- Nguyễn Anh Minh
+- Kiều Mạnh Tùng
+- Nguyễn Thái Bảo
 
 ## Tham khảo
 ...
