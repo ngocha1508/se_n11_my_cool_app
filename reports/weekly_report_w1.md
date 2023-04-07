@@ -1,7 +1,7 @@
 # Báo cáo nhóm
 
 ## Tuần trước làm gì
-- Feature 1
+- a
 ## Các vấn đề gặp phải
 - Cái này khó thầy ạ, help us please.
 
