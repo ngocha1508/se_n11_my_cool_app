@@ -1,7 +1,7 @@
 # Báo cáo nhóm
 
 ## Tuần trước làm gì
-- Chưa chuẩn bị nên ăn hành
+- Bắt đầu tìm hiểu về các ngôn ngữ và công cụ, famework cần thiết cho dự án
 ## Các vấn đề gặp phải
 - Cái này khó thầy ạ, help us please.
 
@@ -11,12 +11,10 @@
 # Báo cáo từng thanh viên
 
 ## Dương Ngọc Hà
-
 ### Tuần trước làm gì
 - Hoàn thành được front end giao diện đăng nhập (login) 
 ### Các vấn đề gặp phải
-- Không gặp sự cố gì chưa giaỉ đáp được
-
+- Gặp phải một số vấn đề về căn chỉnh giao diện 
 ### Dự định tuần này làm gì
 - Học cách sử dụng và hoàn thành các màn hình sau:
   + Học thêm về html, bố cục cơ bản của giao diện, code
